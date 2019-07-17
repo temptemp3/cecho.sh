@@ -1,5 +1,7 @@
 # cecho.sh
 
+colored echo for bash
+
 ## quickstart
 
 ```
